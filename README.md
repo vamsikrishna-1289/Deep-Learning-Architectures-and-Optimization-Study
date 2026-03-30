@@ -22,7 +22,7 @@ Implemented a custom CNN for image classification tasks with feature map visuali
 ### 🔹 VGG & AlexNet Comparison
 Comparative analysis between VGG-style and AlexNet-style architectures using performance metrics such as accuracy and training loss trends.
 
-📄 Reference: :contentReference[oaicite:1]{index=1}
+
 
 ---
 
@@ -32,23 +32,21 @@ Exploration of deep feedforward networks with:
 - Mini-batch evaluation strategies
 - Performance benchmarking
 
-📄 References:  
-- :contentReference[oaicite:2]{index=2}  
-- :contentReference[oaicite:3]{index=3}  
+
 
 ---
 
 ### 🔹 Recurrent Neural Networks (RNN)
 Time-series forecasting model for climate prediction using sequential learning and regression-based evaluation metrics.
 
-📄 Reference: :contentReference[oaicite:4]{index=4}
+
 
 ---
 
 ### 🔹 VGG with Data Augmentation
 Enhanced CNN model using advanced augmentation techniques to improve generalization and robustness in image classification tasks.
 
-📄 Reference: :contentReference[oaicite:5]{index=5}
+
 
 ---
 
